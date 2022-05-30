@@ -1,7 +1,7 @@
 # Jatin Banga Personal Page
 
 ## Jatin Banga
-![Jatin Banga](../img/IMG_20220530_062832_579.jpg)
+![Jatin Banga](../img/IMG_20220530_062832_579.jpg)  
 Hi, As the overly obnoxious name of the webpage suggests, I'm ***Jatin Banga***, a 19 years old cisgendered male.  
 Originally I'm from ***Delhi, India*** and am an undergraduate student pursuing engineering in Mathematics and Computing from IIT Goa.  
 Some of my hobbies include reading, playing y/n story games, watching Football, and most importantly consuming media in both forms music and cinema.
